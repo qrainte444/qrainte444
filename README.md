@@ -2,7 +2,7 @@
 <img src="https://github.com/qrainte444/qrainte444/blob/main/jaylan-cyber-red-v2.gif?raw=true" width="700" alt="Animated red ASCII portrait">
 </p>
 
-<table width="100%">
+<table align="center" width="700">
 <tr>
 <td width="50%" valign="top">
 
