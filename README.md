@@ -1,4 +1,9 @@
-# Hi, I'm Jaylan Mack 👋
+╔══════════════════════════════════════════════════════╗
+║                 J A Y L A N   M A C K                ║
+║          COMPUTER SCIENCE // SECURITY OPERATIONS     ║
+║                                                      ║
+║              [ BUILD ] [ LEARN ] [ DEFEND ]          ║
+╚══════════════════════════════════════════════════════╝
 
 I am a Computer Science student graduating in May 2027. I am building toward a career in cybersecurity, especially blue-team and SOC analyst work.
 
