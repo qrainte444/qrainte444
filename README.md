@@ -1,19 +1,68 @@
-<div align="center">
+![Animated red ASCII portrait](./jaylan-cyber-red-v2.gif)
 
-![Animated ASCII portrait](./jaylan-cyber-scan-v2.gif)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 <pre>
-jaylan_mack@github:~$ whoami
-Jaylan Mack
-
-jaylan_mack@github:~$ status
-Computer Science student | graduating May 2027
-
-jaylan_mack@github:~$ mission
-Build skills. Create projects. Defend systems.
++-------------------------------------+
+| root@jaylan:~$ identity             |
++-------------------------------------+
+| user:     Jaylan Mack               |
+| field:    Computer Science          |
+| path:     SOC Analyst               |
+| finish:   May 2027                  |
++-------------------------------------+
 </pre>
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+<pre>
++-------------------------------------+
+| root@jaylan:~$ system_status        |
++-------------------------------------+
+| mode:     BLUE_TEAM                 |
+| target:   Sacramento                |
+| sector:   Government IT             |
+| status:   BUILDING                  |
++-------------------------------------+
+</pre>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<pre>
++-------------------------------------+
+| root@jaylan:~$ learning_queue       |
++-------------------------------------+
+| [01] TryHackMe Pre Security         |
+| [02] Networking fundamentals        |
+| [03] Linux commands                 |
+| [04] Security operations            |
++-------------------------------------+
+</pre>
+
+</td>
+<td width="50%" valign="top">
+
+<pre>
++-------------------------------------+
+| root@jaylan:~$ mission              |
++-------------------------------------+
+| build_skills.exe                    |
+| create_projects.exe                 |
+| document_progress.exe               |
+| defend_systems.exe                  |
++-------------------------------------+
+</pre>
+
+</td>
+</tr>
+</table>
 
 <h2>About Me</h2>
 
@@ -24,16 +73,6 @@ I am a Computer Science student building toward an entry-level cybersecurity car
 <p>
 My long-term goal is to work in Sacramento, especially in California state or government technology.
 </p>
-
-<h2>Current Focus</h2>
-
-<pre>
-[ studying ] TryHackMe Pre Security
-[ learning ] Networking fundamentals
-[ learning ] Basic Linux commands
-[ building ] Web development projects
-[ planning ] SOC and security projects
-</pre>
 
 <h2>Skills</h2>
 
@@ -46,8 +85,18 @@ Networking  Windows     Problem Solving
 <h2>Featured Projects</h2>
 
 <ul>
-<li><a href="https://github.com/qrainte444/climate-crisis-project-Jaylan-Jordan">California Wildfires Website</a></li>
-<li><a href="https://github.com/qrainte444/CSC317-typesetting-assignment">CSC 317 Typesetting Assignment</a></li>
+<li>
+<a href="https://github.com/qrainte444/climate-crisis-project-Jaylan-Jordan">
+California Wildfires Website
+</a>
+</li>
+
+<li>
+<a href="https://github.com/qrainte444/CSC317-typesetting-assignment">
+CSC 317 Typesetting Assignment
+</a>
+</li>
+
 <li>Web development coursework</li>
 <li>Cybersecurity projects coming soon</li>
 </ul>
@@ -70,7 +119,22 @@ Sacramento public-sector technology
 <div align="center">
 
 <pre>
-BUILD  |  LEARN  |  DOCUMENT  |  DEFEND
+[ BUILD ]  [ LEARN ]  [ DOCUMENT ]  [ DEFEND ]
 </pre>
 
 </div>
+<h2>Connect</h2>
+
+<p>
+<a href="https://discord.gg/YOUR-INVITE">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/qrainte444">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
