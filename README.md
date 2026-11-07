@@ -1,4 +1,6 @@
-![Animated red ASCII portrait](./jaylan-cyber-red-v2.gif)
+<p align="center">
+<img src="https://github.com/qrainte444/qrainte444/blob/main/jaylan-cyber-red-v2.gif?raw=true" width="700" alt="Animated red ASCII portrait">
+</p>
 
 <table width="100%">
 <tr>
