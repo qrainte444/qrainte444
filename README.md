@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="jaylan-ascii-cyber.png" width="460" alt="ASCII-style portrait of Jaylan Mack">
+![Animated ASCII portrait](./jaylan-cyber-scan-v2.gif)
 
 <pre>
 jaylan_mack@github:~$ whoami
