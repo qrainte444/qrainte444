@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Jaylan Mack cybersecurity profile banner</title>
+  <desc id="desc">A dark terminal-style banner for Jaylan Mack, a computer science student pursuing security operations.</desc>
+  <rect width="1200" height="520" rx="18" fill="#0d1117"/>
+  <rect x="24" y="24" width="1152" height="472" rx="12" fill="#111820" stroke="#30363d"/>
+  <circle cx="55" cy="55" r="7" fill="#ff5f56"/>
+  <circle cx="78" cy="55" r="7" fill="#ffbd2e"/>
+  <circle cx="101" cy="55" r="7" fill="#27c93f"/>
+  <text x="52" y="112" fill="#8b949e" font-family="monospace" font-size="20">jaylan_mack@github:~$ whoami</text>
+  <text x="52" y="166" fill="#58a6ff" font-family="monospace" font-size="48" font-weight="700">JAYLAN MACK</text>
+  <text x="52" y="211" fill="#f0f6fc" font-family="monospace" font-size="24">COMPUTER SCIENCE STUDENT // MAY 2027</text>
+  <text x="52" y="275" fill="#8b949e" font-family="monospace" font-size="20">$ focus</text>
+  <text x="52" y="315" fill="#7ee787" font-family="monospace" font-size="26">security operations / blue team / SOC</text>
+  <text x="52" y="374" fill="#8b949e" font-family="monospace" font-size="20">$ mission</text>
+  <text x="52" y="414" fill="#f0883e" font-family="monospace" font-size="24">build skills. create projects. defend systems.</text>
+  <path d="M980 104h120M1000 130h80M962 156h150M1012 182h66M944 208h176M972 234h128M950 260h162M1008 286h92M936 312h184M970 338h144M948 364h170M1002 390h96" stroke="#58a6ff" stroke-width="3" opacity=".55"/>
+</svg>
