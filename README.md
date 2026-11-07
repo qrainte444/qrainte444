@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Jaylan Mack 👋
 
-<!--
-**qrainte444/qrainte444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student graduating in May 2027. I am building toward a career in cybersecurity, especially blue-team and SOC analyst work.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Security operations
+- Threat detection
+- Log analysis
+- Incident response
+- Linux and Windows
+- Networking
+- TryHackMe cybersecurity labs
+- Web development projects
+
+## Currently Learning
+
+- TryHackMe Pre Security
+- Networking fundamentals
+- Basic Linux commands
+- Basic cybersecurity concepts
+- Git and GitHub
+- HTML and CSS
+## Featured Work
+
+- California Wildfires Website
+- CSC 317 Typesetting Assignment
+- Web development coursework
+- Cybersecurity labs and projects coming soon
+
+## Career Goal
+
+I am working toward an entry-level cybersecurity, SOC, IT security, or California state technology position.
+
+## Technologies
+
+HTML | CSS | JavaScript | Git | GitHub | Linux | Windows |
+
+Thanks for visiting my profile!
