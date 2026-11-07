@@ -1,44 +1,76 @@
-╔══════════════════════════════════════════════════════╗
-║                 J A Y L A N   M A C K                ║
-║          COMPUTER SCIENCE // SECURITY OPERATIONS     ║
-║                                                      ║
-║              [ BUILD ] [ LEARN ] [ DEFEND ]          ║
-╚══════════════════════════════════════════════════════╝
+<div align="center">
 
-I am a Computer Science student graduating in May 2027. I am building toward a career in cybersecurity, especially blue-team and SOC analyst work.
+<img src="jaylan-ascii-cyber.png" width="460" alt="ASCII-style portrait of Jaylan Mack">
 
-## What I'm Working On
+<pre>
+jaylan_mack@github:~$ whoami
+Jaylan Mack
 
-- Security operations
-- Threat detection
-- Log analysis
-- Incident response
-- Linux and Windows
-- Networking
-- TryHackMe cybersecurity labs
-- Web development projects
+jaylan_mack@github:~$ status
+Computer Science student | graduating May 2027
 
-## Currently Learning
+jaylan_mack@github:~$ mission
+Build skills. Create projects. Defend systems.
+</pre>
 
-- TryHackMe Pre Security
-- Networking fundamentals
-- Basic Linux commands
-- Basic cybersecurity concepts
-- Git and GitHub
-- HTML and CSS
-## Featured Work
+</div>
 
-- California Wildfires Website
-- CSC 317 Typesetting Assignment
-- Web development coursework
-- Cybersecurity labs and projects coming soon
+<h2>About Me</h2>
 
-## Career Goal
+<p>
+I am a Computer Science student building toward an entry-level cybersecurity career, with a focus on blue-team and SOC work.
+</p>
 
-I am working toward an entry-level cybersecurity, SOC, IT security, or California state technology position.
+<p>
+My long-term goal is to work in Sacramento, especially in California state or government technology.
+</p>
 
-## Technologies
+<h2>Current Focus</h2>
 
-HTML | CSS | JavaScript | Git | GitHub | Linux | Windows |
+<pre>
+[ studying ] TryHackMe Pre Security
+[ learning ] Networking fundamentals
+[ learning ] Basic Linux commands
+[ building ] Web development projects
+[ planning ] SOC and security projects
+</pre>
 
-Thanks for visiting my profile!
+<h2>Skills</h2>
+
+<pre>
+HTML        CSS         JavaScript
+Git         GitHub      Basic Linux
+Networking  Windows     Problem Solving
+</pre>
+
+<h2>Featured Projects</h2>
+
+<ul>
+<li><a href="https://github.com/qrainte444/climate-crisis-project-Jaylan-Jordan">California Wildfires Website</a></li>
+<li><a href="https://github.com/qrainte444/CSC317-typesetting-assignment">CSC 317 Typesetting Assignment</a></li>
+<li>Web development coursework</li>
+<li>Cybersecurity projects coming soon</li>
+</ul>
+
+<h2>Career Direction</h2>
+
+<pre>
+Computer Science
+        |
+        v
+Security fundamentals
+        |
+        v
+SOC / Blue Team / IT Security
+        |
+        v
+Sacramento public-sector technology
+</pre>
+
+<div align="center">
+
+<pre>
+BUILD  |  LEARN  |  DOCUMENT  |  DEFEND
+</pre>
+
+</div>
